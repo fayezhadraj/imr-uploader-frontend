@@ -1,8 +1,8 @@
 {
   "name": "IMR Product Photo Uploader",
   "short_name": "IMR Uploader",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/imr-uploader-frontend/index.html",
+  "scope": "/imr-uploader-frontend/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd"
